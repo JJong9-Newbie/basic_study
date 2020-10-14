@@ -59,7 +59,7 @@ Link : [Google][googlelink]
 스페이스 3칸
 
 10. 이미지   
-"<img src="/위치/이름.jpg" width="숫자px" height="숫자px" title="숫자px" alt="제목"></img>"
+"<img src="/위치/이름.jpg" width="숫자px" height="숫자px" title="숫자px" alt="제목"></img>"   
 맞는지 모르겠다. 체킹필요
 
 '![Alt 제목](/위치/이름.jpg)
